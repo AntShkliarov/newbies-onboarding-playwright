@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AntShkliarov/newbies-onboarding-playwright.git"
@@ -18,5 +16,8 @@
   "homepage": "https://github.com/AntShkliarov/newbies-onboarding-playwright#readme",
   "dependencies": {
     "cowsay": "^1.5.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.24.1"
   }
 }
